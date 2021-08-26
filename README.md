@@ -52,3 +52,14 @@ Al momento de actualizar al nuevo usuario y realizar un get se puede observar qu
 Al momento de eliminar un usuario que no existe nos retornará false
 
 ![deleteFalse](https://github.com/Jose1102/IETI-spring-boot-rest-api/blob/main/images/deleteFalse.PNG)
+
+
+
+## JavaDoc 📖
+
+Para consultar la carpeta de [JAVADOC](https://github.com/Jose1102/PicasYFamasGame/tree/master/javadoc) .
+
+## Licencia 📌
+
+Este proyecto está bajo la Licencia Pública General GNU - consulte el archivo de [LICENCIA](https://github.com/Jose1102/IETI-spring-boot-rest-api/blob/main/LICENSE.txt) para obtener más detalles.
+
