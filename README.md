@@ -1,5 +1,24 @@
 # IETI-spring-boot-rest-api
 
+### Parte 1: Implementación de la API RESTFUL del microservicio de usuario
+
+1. Cree un nuevo proyecto usando [Spring Initializr] (https://start.spring.io/)
+     * Utilice * Java * o * Kotlin * como su lenguaje de programación.
+     * Use Gradle como una opción de proyecto (si su computadora es lenta, use Maven)
+     * Agregue la dependencia de Spring Web antes de construir el proyecto.
+2. Cree un nuevo repositorio en Github y confirme los archivos generados en 1.
+3. Cree un nuevo paquete llamado * dto * y dentro defina su objeto * UserDto * con al menos los siguientes campos:
+       * Nombre.
+       * Correo electrónico.
+       * apellido.
+4. Cree un nuevo paquete llamado * datos * y dentro defina su objeto de datos * Usuario * con al menos los siguientes campos:
+       * identificación.
+       * Nombre.
+       * Correo electrónico.
+       * apellido.
+       * Creado en.
+5. Cree un nuevo paquete llamado * servicio *
+
 * Se realiza petición get de la lista de User
 
 ![Get](https://github.com/Jose1102/IETI-spring-boot-rest-api/blob/main/images/get.PNG)
